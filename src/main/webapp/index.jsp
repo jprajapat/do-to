@@ -1,11 +1,11 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<!-- Required meta tags -->
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>To_Do Note</title>
-	<%@include file="all_js_css.jsp"%>
+<!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>To_Do Note</title>
+<%@include file="all_js_css.jsp"%>
 
 <script type="text/javascript">
 	function fun() {
@@ -39,6 +39,7 @@
 			<option>Select</option>
 			<option>India</option>
 			<option>USA</option>
+			<option>UK</option>
 		</select>
 
 		<div id="output">
