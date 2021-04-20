@@ -15,6 +15,8 @@
 					"Goa" ];
 		} else if (a == "USA") {
 			var states = [ "Select", "Washington", "Texas" ];
+		} else if (a == "UK") {
+			var states = [ "Select", "Washington", "aaaa" ];
 		} else {
 			var states = [];
 		}
