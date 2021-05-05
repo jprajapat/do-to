@@ -33,6 +33,7 @@
 
 </head>
 <body>
+	<h1>Home page</h1>
 	<div class="container">
 		<%@ include file="navbar.jsp"%>
 		<br /> <select id="input" onchange="fun()">
