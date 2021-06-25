@@ -17,6 +17,7 @@ public class DeleteServlet extends HttpServlet {
 
 	public DeleteServlet() {
 		super();
+		// TODO Auto-generated constructor stub
 	}
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)

@@ -23,7 +23,6 @@
 		var string = "";
 		for (i = 0; i < states.length; i++) {
 			string = string + "<option>" + states[i] + "</option>";
-
 		}
 		string = "<select name='value'>" + string + "</select>";
 		document.getElementById('output').innerHTML = string;
