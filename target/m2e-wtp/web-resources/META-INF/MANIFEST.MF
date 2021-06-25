@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 Built-By: Jitendra Prajapat
+<<<<<<< HEAD
 Build-Jdk: 16.0.1
+=======
+Build-Jdk: 11.0.8-internal
+>>>>>>> 7856593eab13dced56b5b819d4d168543c9f8b6f
 Created-By: Maven Integration for Eclipse
 
